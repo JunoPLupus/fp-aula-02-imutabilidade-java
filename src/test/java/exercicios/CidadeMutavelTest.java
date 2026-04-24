@@ -7,8 +7,8 @@ import java.util.Map;
 /**
  * @author Manoel Campos
  */
-class CidadeTest extends ClassTest {
-    CidadeTest() {
+class CidadeMutavelTest extends ClassTest {
+    CidadeMutavelTest() {
         super(Map.of("nome", "String"));
     }
 }

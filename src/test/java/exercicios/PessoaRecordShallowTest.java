@@ -9,6 +9,6 @@ import java.util.Map;
  */
 class PessoaRecordShallowTest extends RecordTest {
     PessoaRecordShallowTest() {
-        super(Map.of("nome", "String", "cidade", "Cidade"));
+        super(Map.of("nome", "String", "cidade", "CidadeMutavel"));
     }
 }
